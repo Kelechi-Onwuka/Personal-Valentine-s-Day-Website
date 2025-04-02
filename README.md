@@ -13,6 +13,9 @@ A playful interactive website built with HTML, CSS, and JavaScript. Originally c
 - Responsive design with themed visuals
 - Engaging user interactions using JavaScript
 
+ ## Mobile Usage  
+*This site is mobile-friendly, but best experienced on a laptop or desktop where the playful "No" button animation (which follows the mouse) works most effectively.*
+
 ## Built With
 - HTML
 - CSS
