@@ -7,9 +7,6 @@ A playful interactive website built with HTML, CSS, and JavaScript. Originally c
 ## Live Site
 [https://kelechi-onwuka.github.io/Personal-Valentine-s-Day-Website/](https://kelechi-onwuka.github.io/Personal-Valentine-s-Day-Website/)
 
-## GitHub Repository
-[https://github.com/Kelechi-Onwuka/Personal-Valentine-s-Day-Website](https://github.com/Kelechi-Onwuka/Personal-Valentine-s-Day-Website)
-
 ## Features
 - Interactive Yes/No button with dynamic behavior
 - Animated love letter reveal
